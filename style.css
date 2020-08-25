@@ -1,0 +1,42 @@
+* {
+    margin: 5px;
+}
+
+.form-control {
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.weatherHead {
+    border: 5px red;
+    background-color: rgba(131, 18, 18, 0.541);
+    padding: 2em;
+    color: rgb(0, 255, 179);
+
+}
+
+#today {
+    width: 75%;
+    height: 175px;
+    background-color: rgb(211, 192, 179);
+    margin: auto;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    text-align: center;
+    padding: none;
+}
+
+#forecast {
+    border-color: lawngreen;
+    border-width: 5px;
+}
+
+.card-body {
+    border-color: lawngreen;
+    border-width: 5px;
+}
+
+.card-title {
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
